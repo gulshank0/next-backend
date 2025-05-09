@@ -13,7 +13,7 @@ export default async function User() {
   return (
     <div>
       {data.email}
-      {data.name}
+    
       <br />
       {data.profession}
     </div>
